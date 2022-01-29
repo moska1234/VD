@@ -85,7 +85,6 @@ class Compliments extends React.Component {
         this.setState({
             compliment: this.state.compliments[Math.floor(Math.random() * this.state.compliments.length)]
         });
-        console.log(this.state.compliment.text)
 
     }
     render() {
