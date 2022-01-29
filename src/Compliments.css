@@ -41,7 +41,7 @@
   padding: 0 1rem;
 }
 .complBox h3 {
-  height: 5vh;
+  height: 10vh;
   line-height: 38px;
 }
 @media only screen and (max-width: 600px) {
