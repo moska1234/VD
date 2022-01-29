@@ -27,7 +27,7 @@ class Compliments extends React.Component {
                 { "id": 18, "text": "Masz dobre serduszko ❤️ " },
                 { "id": 19, "text": "Jesteś super przystojny 🥰" },
                 { "id": 20, "text": "Masz bardzo fajnego 🍆 😉" },
-                { "id": 21, "text": "Masz boskie ciało, od którego ciężko oderwać wzrok 🤤 " },
+                { "id": 21, "text": "Masz boskie ciało, od którego ciężko oderwać wzrok 🤤" },
                 { "id": 22, "text": "Uwielbiam nasze wielogodzinne rozmowy" },
                 { "id": 23, "text": "Uwielbiam Twoje duże, silne dłonie i ramiona" },
                 { "id": 24, "text": "Lubię to, że jesteś nerdem 🤓" },
@@ -59,7 +59,10 @@ class Compliments extends React.Component {
                 { "id": 50, "text": "Bardzo lubię Twoje bezpośrednie pytania" },
                 { "id": 51, "text": "Dzięki Tobie wychodzę, ze swojej strefy komfortu i pokonuje swoje lęki 💪" },
                 { "id": 52, "text": "Dziękuję, że mnie wspierasz i rozśmieszasz" },
-                { "id": 53, "text": "Dziękuję, że jesteś w moim życiu 😘" }
+                { "id": 53, "text": "Dziękuję, że jesteś w moim życiu 😘" },
+                { "id": 54, "text": "Uwielbiam, gdy chwilę przed pocałunkiem wodzisz wzrokiem po moich ustach naprzemian z patrzeniem mi się w oczy 🤤 🥰" },
+                { "id": 55, "text": "Uwielbiam, gdy przeciągasz chwilę, gdy patrzysz mi się w oczy 🥰" },
+                { "id": 56, "text": "Uwielbiam, to jak na mnie patrzysz 🥰" }
             ],
             compliment: []
         };
