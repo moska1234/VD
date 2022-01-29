@@ -62,7 +62,7 @@ class Compliments extends React.Component {
                 { "id": 53, "text": "Dziękuję, że jesteś w moim życiu 😘" },
                 { "id": 54, "text": "Uwielbiam, gdy chwilę przed pocałunkiem wodzisz wzrokiem po moich ustach naprzemian z patrzeniem mi się w oczy 🤤 🥰" },
                 { "id": 55, "text": "Uwielbiam, gdy przeciągasz chwilę, gdy patrzysz mi się w oczy 🥰" },
-                { "id": 56, "text": "Uwielbiam, to jak na mnie patrzysz 🥰" }
+                { "id": 55, "text": "Uwielbiam, to jak na mnie patrzysz 🥰" }
             ],
             compliment: []
         };
