@@ -62,7 +62,17 @@ class Compliments extends React.Component {
                 { "id": 53, "text": "Dziękuję, że jesteś w moim życiu 😘" },
                 { "id": 54, "text": "Uwielbiam, gdy chwilę przed pocałunkiem wodzisz wzrokiem po moich ustach naprzemian z patrzeniem mi się w oczy 🤤 🥰" },
                 { "id": 55, "text": "Uwielbiam, gdy przeciągasz chwilę, gdy patrzysz mi się w oczy 🥰" },
-                { "id": 55, "text": "Uwielbiam, to jak na mnie patrzysz 🥰" }
+                { "id": 55, "text": "Uwielbiam, to jak na mnie patrzysz 🥰" },
+                { "id": 56, "text": "Lubię być dla Ciebie brat'em i się z Tobą droczyć 🥰" },
+                { "id": 57, "text": "Lubię jak dajesz mi klapsy 🍑 👋 😈" },
+                { "id": 58, "text": "Uwielbiam jak mówisz, że mnie kochasz ❤️" },
+                { "id": 59, "text": "Bardzo lubię zadawać Ci bezpośrednie albo dziwne pytania i obserwować w jaki sposób zareagujesz 😂 😈" },
+                { "id": 60, "text": "Uwielbiam gdy trzymasz mnie w pasie swoimi dużymi dłońmi, czuję się wtedy taka drobniutka 🤤 😈" },
+                { "id": 61, "text": "Uwielbiam patrzeć jak się wspinasz, podziwiać Twoje kocie ruchy, to jak myślisz co masz dalej zrobić no i oczywiście Twój tyłeczek, bo mam wtedy doskonały widok 🍑 🤤" },
+                { "id": 62, "text": "Uwielbiam to jak jęczysz gdy dochodzisz 🤤" },
+                { "id": 63, "text": "Uwielbiam eksperymentować z Tobą w łożku 🤤 😈" },
+                { "id": 64, "text": "Uwielbiam gdy mnie wiążesz i robisz ze mną co Ci się podoba 🤤 😈" },
+                { "id": 65, "text": "Uwielbiam nasze przepychanki w łóżku 😈" },
             ],
             compliment: []
         };
