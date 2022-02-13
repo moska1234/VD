@@ -73,6 +73,9 @@ class Compliments extends React.Component {
                 { "id": 63, "text": "Uwielbiam eksperymentować z Tobą w łożku 🤤 😈" },
                 { "id": 64, "text": "Uwielbiam gdy mnie wiążesz i robisz ze mną co Ci się podoba 🤤 😈" },
                 { "id": 65, "text": "Uwielbiam nasze przepychanki w łóżku 😈" },
+                { "id": 66, "text": "Strasznie słodko ziewasz 🥱" },
+                { "id": 67, "text": "Uwielbiam, gdzie mnie przytulasz w nocy" },
+                { "id": 68, "text": "Uwielbiam, Cię rozśmieszać 😂" },
             ],
             compliment: []
         };
@@ -97,6 +100,7 @@ class Compliments extends React.Component {
                     className="rainbow"
                     type="button"
                     onClick={this.randomCompl}
+
                 >
                     Next
                 </button>
@@ -106,5 +110,3 @@ class Compliments extends React.Component {
 }
 
 export default Compliments
-
-
