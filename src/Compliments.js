@@ -74,7 +74,7 @@ class Compliments extends React.Component {
                 { "id": 64, "text": "Uwielbiam gdy mnie wiążesz i robisz ze mną co Ci się podoba 🤤 😈" },
                 { "id": 65, "text": "Uwielbiam nasze przepychanki w łóżku 😈" },
                 { "id": 66, "text": "Strasznie słodko ziewasz 🥱" },
-                { "id": 67, "text": "Uwielbiam, gdzie mnie przytulasz w nocy" },
+                { "id": 67, "text": "Uwielbiam, gdy mnie przytulasz w nocy" },
                 { "id": 68, "text": "Uwielbiam, Cię rozśmieszać 😂" },
             ],
             compliment: []
